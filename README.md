@@ -15,3 +15,9 @@ Live Demo -
 HTML5
 CSS3 (Flexbox + Gradients)
 JavaScript
+
+📁 Project Structure
+📦 flux-coming-soon-ui
+ ┣ 📜 index.html
+ ┣ 📜 style.css
+ ┣ 📜 script.js
