@@ -21,3 +21,9 @@ JavaScript
  ┣ 📜 index.html
  ┣ 📜 style.css
  ┣ 📜 script.js
+
+ 🧠 Future Improvements
+✅ Connect email input to backend (Node.js / Firebase)
+📅 Dynamic launch date configuration
+🌐 Deploy on Netlify / Vercel
+📊 Add analytics tracking
