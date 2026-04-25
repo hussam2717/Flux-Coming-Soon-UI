@@ -10,3 +10,8 @@ Live Demo -
 🌙 Dark gradient background with glowing effects
 📱 Fully responsive layout
 ⚡ Lightweight and fast
+
+🛠️ Tech Stack
+HTML5
+CSS3 (Flexbox + Gradients)
+JavaScript
