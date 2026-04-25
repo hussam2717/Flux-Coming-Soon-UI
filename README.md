@@ -27,3 +27,7 @@ JavaScript
 📅 Dynamic launch date configuration
 🌐 Deploy on Netlify / Vercel
 📊 Add analytics tracking
+
+
+🤝 Contributing
+Feel free to fork this repo and improve it. Pull requests are welcome!
